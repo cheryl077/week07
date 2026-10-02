@@ -1,14 +1,20 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="id">
 <head>
-<meta charset="UTF-8">
-<title>12 Hewan Purba Ikonik</title>
+    <meta charset="UTF-8">
+    <title>12 Hewan Purba Ikonik</title>
 </head>
 <body>
-<h1>12 Hewan Purba Paling Ikonik</h1>
+
+    <h1>12 Hewan Purba Paling Ikonik</h1>
+
+    <p class="deskripsi">Berikut adalah refrensi puisi-puisi yang sudah saya riset</p>
 <div>
 <h2>Dunkleosteus</h2>
-<img src="pic01.png" alt="Dunkleosteus">
+<img src="gambar/01.png" alt="Dunkleosteus">
 <p><strong>Era:</strong> Devon Akhir</p>
 <p><strong>Tahun:</strong> Sekitar 382-358 juta tahun lalu</p>
-<p> Dunkleosteus adalah ikan berzirah raksasa yang menjadi salah satu predator laut paling menakutkan pada zaman Devon. Bagian kepalanya dilindungi lempeng tulang tebal dan memiliki rahang tajam seperti bilah.
+<p>
+Dunkleosteus adalah ikan berzirah raksasa yang menjadi salah satu predator laut paling menakutkan pada zaman Devon. Bagian kepalanya dilindungi lempeng tulang tebal dan memiliki rahang tajam seperti bilah.
+</body>
+</html>
